@@ -19,29 +19,61 @@ description: "This book lists 15 fun arduino-experiments for the kids. These exp
 #knitr::include_graphics('assets/images/book-cover.jpg')
 ```
 
-This book lists 15 fun arduino-experiments for the kids. These experiments can best be the part of an arduino workshop for kids.
+This book lists 15 fun Arduino experiments for the kids. These experiments can best be part of an Arduino workshop for kids.
 
-## Where did this book come from? {-}
+## Where did this book come from? 📖 {-}
 
-## Who is this book for? {-}
+In Nov 2017 I was part of two days `Arduino workshop for kids`. My work was to create the content and conduct (as a resource person) the workshop. There were 20 participants in the age group less than 19 years. Participants took part in 15 challenges (Arduino projects) which progressively increase in difficulty. It was an awesome experience seeing the young ones taking immense interest and standing up to the challenges. The workshop was covered by [local newspaper](https://www.tribuneindia.com/news/archive/jalandhar/young-minds-dwell-on-e-concepts-496919) and was thoroughly praised.
 
-What this book is
-
-What this book is not
+To better help the outreach of this workshop among the young kids, I created this book. It includes everything that was in the workshop. I intend to help curious young minds to create electronics projects by making available the workshop contents in the form of a free and easy-to-access book. Also, in this way, I can contribute my part to the open-source community. 
 
 
-## Why is arduino so great? {-}
+## Who is this book for? ❓ {-}
+
+This book is primarily written for young kids who have no experience with electronics projects. The structure of the book is kept simple and the writing is easy to follow. It's not only for kids but anyone who has just started working with Arduino can use these projects as their journey towards learning. 
+
+What this book is ✔️  
+
+- for kids to kick start their journey in electronics
+- a reference guide to conducting `Arduino workshop for kids`
+- a fun reading about the simple Arduino projects
+
+What this book is not ❌  
+
+- meant to teach advanced electronic concepts
+- meant to teach advanced programming concepts
 
 
-## Who am I? {-}
+## Who am I? 👨‍🎓 {-}
 
-### Please consider a donation!
-
-
-### Acknowledgements
+I am a PhD student at the [National Institute of Technology Jalandhar](https://www.nitj.ac.in/). I ❤️ working on electronics hardware/software projects and learning new tools & technologies. When not working, I like running and cycling. You can find more about me at - https://kulbhushanchand.github.io/about/
 
 
-## Contributions and Acknowledgements {-}
+## Support this work ❤️ {-} 
+
+I support open-source hardware/software and open science. Therefore, this version of this book will always be freely available! However, creating content and updating the book takes a lot of effort. So, if you like this book and want to support its development, consider supporting this work in the following ways. It will help me a lot!
+
+- **Donation 💰**  
+Donate something at [paypalme/KulbhushanChand](https://www.paypal.com/paypalme/KulbhushanChand)
+
+- **Share️ 📢**  
+Share the project links with others.
+  - Online-version of the book at https://kulbhushanchand.github.io/ArduinoWorkshopForKids
+  - Project source code repository at https://github.com/kulbhushanchand/ArduinoWorkshopForKids
+ 
+- **Like ⭐**    
+You can also star the [GitHub repository](https://github.com/kulbhushanchand/ArduinoWorkshopForKids)
+
+
+## Acknowledgements 🙏 {-}
+
+I would like to thank my PhD supervisor [Prof. Arun Khosla](https://www.nitj.ac.in/index.php/nitj_cinfo/Faculty/38) for encouraging me to be part of the workshop for kids. I am also thankful to Mr. and Mrs. Indrajeet Paintel for conceiving the idea and arranging the infrastructure and logistics for the workshop. I also appreciate the help from my lab mates Mr. Gajender Singh and 
+
+I also want to acknowledge the open-source tools used in some parts of this project.
+
+- [Fritzing](https://fritzing.org/) is used to create the connection diagram.
+- [drawio-desktop](https://github.com/jgraph/drawio-desktop) is used to create the logo and diagrams.
+
 
 
 
