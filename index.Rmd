@@ -4,9 +4,9 @@ author: "Kulbhushan Chand"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
-bibliography: [book.bib]
-biblio-style: apalike
-link-citations: yes
+#bibliography: [ref.bib]
+#biblio-style: apalike
+#link-citations: yes
 #github-repo: 
 description: "This book lists 15 fun arduino-experiments for the kids. These experiments can best be the part of an arduino workshop for kids."
 #cover-image: assets/images/book-cover.jpg

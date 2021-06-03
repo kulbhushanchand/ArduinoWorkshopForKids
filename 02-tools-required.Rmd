@@ -1,0 +1,31 @@
+# Tools required ⚙️
+
+You will need some important hardware and software tools to take on the forthcoming challenges. Let us get familiarize with them.
+
+
+## Hardware tools 🛠️
+
+These are the physical tools required for experimentation.
+
+- **Main components**
+  - Arduino Uno (x1)
+  - Breadboard  (x1)
+  - Connecting wires (more than 20)
+  - Battery holder (x1)
+  - AA Batteries (x2)
+
+- **Input/Sensors**
+  - Push button
+
+- **Output/Actuator**
+  - Red LED
+
+- **Misc.**
+  - PC/Laptop
+  - USB Type-A to USB Type-B cable
+  - Resistors (320 Ω)
+ 
+
+## Software tools 🖥️
+
+- Arduino IDE
