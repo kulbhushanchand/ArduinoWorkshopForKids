@@ -25,7 +25,7 @@ This book lists 15 fun Arduino experiments for the kids. These experiments can b
 
 In Nov 2017 I was part of two days `Arduino workshop for kids`. My work was to create the content and conduct (as a resource person) the workshop. There were 20 participants in the age group less than 19 years. Participants took part in 15 challenges (Arduino projects) which progressively increase in difficulty. It was an awesome experience seeing the young ones taking immense interest and standing up to the challenges. The workshop was covered by [local newspaper](https://www.tribuneindia.com/news/archive/jalandhar/young-minds-dwell-on-e-concepts-496919) and was thoroughly praised.
 
-To better help the outreach of this workshop among the young kids, I created this book. It includes everything that was in the workshop. I intend to help curious young minds to create electronics projects by making available the workshop contents in the form of a free and easy-to-access book. Also, in this way, I can contribute my part to the open-source community. 
+To better help the outreach of this workshop among the young kids, I created this book. It includes everything that was in the workshop. The goal is to help the curious young minds by giving them a head start in developing electronics projects. Therefore the workshop contents are made available in the form of a free and easy-to-access book. Also, in this way, I can contribute my part to the open-source community. 
 
 
 ## Who is this book for? ❓ {-}
