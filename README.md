@@ -1,14 +1,8 @@
  <!-- PROJECT LOGO -->
-<style>
-    .crop {
-        margin: 0px 0 -60px 0px;
-    }
-</style>
-
 <br />
-<p class="crop" align="center">
+<p align="center">
   <a href="https://github.com/kulbhushanchand/ArduinoWorkshopForKids">
-    <img src="docs/assets/images/logo.svg" alt="Logo" width="200" height="200" >
+    <img src="docs/assets/images/logo.png" alt="Logo" width="250" >
   </a>
   <h2 align="center">Arduino Workshop For kids</h2>
   <p align="center">
