@@ -15,8 +15,8 @@ description: "This book lists 15 fun arduino-experiments for the kids. These exp
 
 # Preface {#preface -}
 
-```{r fig.align='center', echo=FALSE, out.width = '75%'}
-#knitr::include_graphics('assets/images/book-cover.jpg')
+```{r fig.align='center', echo=FALSE, out.width = '100%'}
+knitr::include_graphics('assets/images/logo.svg')
 ```
 
 This book lists 15 fun Arduino experiments for the kids. These experiments can best be part of an Arduino workshop for kids.
