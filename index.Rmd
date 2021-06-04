@@ -1,5 +1,5 @@
 --- 
-title: "Arduino Workshop For kids"
+title: "Arduino Workshop For Kids"
 author: "Kulbhushan Chand"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
@@ -54,7 +54,7 @@ I am a PhD student at the [National Institute of Technology Jalandhar](https://w
 I support open-source hardware/software and open science. Therefore, this version of this book will always be freely available! However, creating content and updating the book takes a lot of effort. So, if you like this book and want to support its development, consider supporting this work in the following ways. It will help me a lot!
 
 - **Donation 💰**  
-Donate something at [paypalme/KulbhushanChand](https://www.paypal.com/paypalme/KulbhushanChand)
+Donate something at [paypalme/KulbhushanChand](https://www.paypal.me/KulbhushanChand)
 
 - **Share️ 📢**  
 Share the project links with others.
