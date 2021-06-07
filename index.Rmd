@@ -21,14 +21,14 @@ knitr::include_graphics('assets/images/logo.png')
 
 This book lists 15 fun Arduino experiments for the kids. These experiments can best be part of an Arduino workshop for kids.
 
-## Where did this book come from? 📖 {-}
+## Where did this book come from? {-}
 
 In Nov 2017 I was part of two days `Arduino workshop for kids`. My work was to create the content and conduct (as a resource person) the workshop. There were 20 participants in the age group less than 19 years. Participants took part in 15 challenges (Arduino projects) which progressively increase in difficulty. It was an awesome experience seeing the young ones taking immense interest and standing up to the challenges. The workshop was covered by [local newspaper](https://www.tribuneindia.com/news/archive/jalandhar/young-minds-dwell-on-e-concepts-496919) and was thoroughly praised.
 
 To better help the outreach of this workshop among the young kids, I created this book. It includes everything that was in the workshop. The goal is to help the curious young minds by giving them a head start in developing electronics projects. Therefore the workshop contents are made available in the form of a free and easy-to-access book. Also, in this way, I can contribute my part to the open-source community. 
 
 
-## Who is this book for? ❓ {-}
+## Who is this book for? {-}
 
 This book is primarily written for young kids who have no experience with electronics projects. The structure of the book is kept simple and the writing is easy to follow. It's not only for kids but anyone who has just started working with Arduino can use these projects as their journey towards learning. 
 
@@ -44,9 +44,9 @@ What this book is not ❌
 - meant to teach advanced programming concepts
 
 
-## Who am I? 👨‍🎓 {-}
+## Who am I? {-}
 
-I am a PhD student at the [National Institute of Technology Jalandhar](https://www.nitj.ac.in/). I ❤️ working on electronics hardware/software projects and learning new tools & technologies. When not working, I like running and cycling. You can find more about me at - https://kulbhushanchand.github.io/about/
+I am a PhD student at the [National Institute of Technology Jalandhar](https://www.nitj.ac.in/). I enjoy working on electronics hardware/software projects and learning new tools & technologies. When not working, I like running and cycling. You can find more about me at - https://kulbhushanchand.github.io/about/
 
 
 ## Support this work ❤️ {-} 
@@ -65,7 +65,7 @@ Share the project links with others.
 You can also star the [GitHub repository](https://github.com/kulbhushanchand/ArduinoWorkshopForKids)
 
 
-## Acknowledgements 🙏 {-}
+## Acknowledgements {-}
 
 I would like to thank my PhD supervisor [Prof. Arun Khosla](https://www.nitj.ac.in/index.php/nitj_cinfo/Faculty/38) for encouraging me to be part of the workshop for kids. I am also thankful to Mr. and Mrs. Indrajeet Paintel for conceiving the idea and arranging the infrastructure and logistics for the workshop. I also appreciate the help from my lab mates Mr. Gajender Singh and 
 

@@ -11,7 +11,7 @@ In simple terms, Arduino acts as the brain in an electronic project. It handles 
 
 Find more about the Arduino Uno board on their [official website](https://store.arduino.cc/usa/arduino-uno-rev3). 
 
-```{r fig.cap= '(Top row: left to right) Unboxing the Arduino, front side; (Bottom row: left to right) isometric view, back side', fig.align='center', fig.show='hold', echo=FALSE, out.width = '50%'}
+```{r arduino-uno, fig.cap= '(Top row: left to right) Unboxing the Arduino, front side; (Bottom row: left to right) isometric view, back side', fig.align='center', fig.show='hold', echo=FALSE, out.width = '50%'}
 knitr::include_graphics(c('assets/images/arduino-uno-unbox.jpg', 'assets/images/arduino-uno-front.jpg', 'assets/images/arduino-uno-iso.jpg', 'assets/images/arduino-uno-back.jpg'))
 ```
 

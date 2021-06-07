@@ -1,31 +1,48 @@
-# Tools required ⚙️
+# Tools required
 
-You will need some important hardware and software tools to take on the forthcoming challenges. Let us get familiarize with them.
+You will need some important hardware and software tools to take on the forthcoming challenges. Let us get familiarize with them. The list of tools is subjected to change as new contents are added to the book. Anyway, the current list of tool is enough to take on the available challenges in the book.
 
 
 ## Hardware tools 🛠️
 
-These are the physical tools required for experimentation.
+These are the main hardware tools that are required for experimentation. This list will grow as I add more challenges this book.
 
-- **Main components**
-  - Arduino Uno (x1)
-  - Breadboard  (x1)
-  - Connecting wires (more than 20)
-  - Battery holder (x1)
-  - AA Batteries (x2)
+- **Arduino Uno** (x1)  
+  The challenges are designed for **Arduino Uno** board. Other popular Arduino boards like **Arduino Mega 2560**, **Arduino Leonardo** can also be used, but I recommend starting with **Arduino Uno**. See the Fig.\@ref(fig:arduino-uno) to know how Arduino Uno board looks like. 
+  
+- **PC/Laptop** (x1)
+  Any desktop computer can be used to program the Arduino board. Make sure the PC has a free USB port to connect to the Arduino. 
 
-- **Input/Sensors**
+- **USB Type-A to USB Type-B cable** (x1)
+  The Arduino is connected to the PC using a special USB cable. On one side it has a commonly found Type-A connector while other side has a less common Type-B connector that goes to the Arduino board. This cable serves dual purpose. First it helps to transfer data between the Arduino and the PC. Second it supplies power from the PC to the Arduino board. 
+
+- **Breadboard**  (x1)  
+  The breadboard is the part which is used to temporarily connect different electronic components. It makes our life easier by allowing us to quickly join/un-join different wires, connect/disconnect different electronic components from the electronic circuit.
+  
+- **Connecting wires** (more than 20)  
+  Just like breadboard, the wires interconnects different electronic components but with greater flexibility. Even on the breadboard we need wires to connect different points together. We need a lot of them, the more the better.   
+
+- **Power supply** (x1)  
+  Electronic projects need power to run. Think of it like food for your body, or fuel for your car. For most of the projects the power that comes from the PC/Laptop via USB cable is sufficient. But, sometimes we need to take our project outdoors and it is difficult to carry the PC with us. So having a portable power supply comes in handy. A simple power supply comprises of two parts:
+  - 9V Battery
+  - Battery to barrel jack adaptor  
+
+- **Input/Sensors**  
+  The **input devices** or **sensors** are like eyes and ears for our projects. We need may need combination of different sensors based on the challenge.
   - Push button
 
-- **Output/Actuator**
+- **Output/Actuator**  
+  The **output devices** or **actuators** are like the the arms and legs for our projects. These are the output device which we can control. 
   - Red LED
 
-- **Misc.**
-  - PC/Laptop
-  - USB Type-A to USB Type-B cable
+- **Other components**  
+  We need few electronic components for various needs in the project. Think of these components like various organs in the body, each serving different function but acting together they serves a common purpose (i.e. to drive the body). The various components we need are:  
   - Resistors (320 Ω)
  
 
 ## Software tools 🖥️
+
+
+
 
 - Arduino IDE
