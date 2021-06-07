@@ -41,17 +41,9 @@ What this book is not ❌
 
 ## Support the project ❤️ 
 
-This book along with source-code is **freely available**.   
-However, this is a **work in progress** 🚧 and creating content and updating the book takes a lot of effort. So, if you like this book and want to support its development, consider supporting this project by following ways -
+This book along with source code is **freely available**. However, this is a **work in progress** and creating content and updating the book takes a lot of effort. If you like this book and want to support its development, consider supporting this project by following ways -
 
-- **Donation 💰**  
-Donate something at [paypalme/KulbhushanChand](https://www.paypal.me/KulbhushanChand)
-
-- **Share️ 📢**  
-Share the project links with others.
-  - Online-version of the book at https://kulbhushanchand.github.io/ArduinoWorkshopForKids
-  - Project source code repository at https://github.com/kulbhushanchand/ArduinoWorkshopForKids
- 
-- **Like ⭐**    
-You can also star the [GitHub repository](https://github.com/kulbhushanchand/ArduinoWorkshopForKids)
+- **Sponsor** by donating something at [paypalme/KulbhushanChand](https://www.paypal.me/KulbhushanChand)
+- **Share️** the project links: [Online book](https://kulbhushanchand.github.io/ArduinoWorkshopForKids) and [Source code repository](https://github.com/kulbhushanchand/ArduinoWorkshopForKids)
+- **Star** the [GitHub repository](https://github.com/kulbhushanchand/ArduinoWorkshopForKids)
 
